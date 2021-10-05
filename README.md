@@ -1,1 +1,1 @@
-"# symfony_blog" 
+"# wordpress_blog" 
