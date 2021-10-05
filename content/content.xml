@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <pages>
+    <page>
+      <meta_ID>tt_page1</meta_ID>
+      <page_name>home</page_name>
+      <page_title>Home</page_title>
+      <page_template_name>home</page_template_name>
+      <page_header_id>home</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>10/05/2021 00:00:00</publish_date>
+      <page_title_visibility>true</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column03">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></page_content>
+    </page>
+    <page>
+      <meta_ID>tt_page2</meta_ID>
+      <page_name>about-us</page_name>
+      <page_title>About Us</page_title>
+      <page_template_name>about-us</page_template_name>
+      <page_header_id>about us</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>10/05/2021 00:00:00</publish_date>
+      <page_title_visibility>true</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column03">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><h2>Title</h2><br /><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></page_content>
+    </page>
+    <page>
+      <meta_ID>tt_page3</meta_ID>
+      <page_name>contact</page_name>
+      <page_title>Contact</page_title>
+      <page_template_name>contact</page_template_name>
+      <page_header_id>contact</page_header_id>
+      <page_status>publish</page_status>
+      <publish_date>10/05/2021 00:00:00</publish_date>
+      <page_title_visibility>true</page_title_visibility>
+      <page_content><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><p style="margin:2px 0px 0px 8px;"><span style="font-size:1.714em;">Address:</span></p><br style="margin:2px 0px 0px 8px;" /><p style="margin:2px 0px 0px 8px;"><span style="font-size:1em;">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 8px;"><span style="font-size:1em;">New York City,</span></p><p style="margin:2px 0px 0px 8px;"><span style="font-size:1em;">NY 10005, USA</span></p><p style="margin:2px 0px 0px 8px;"><span style="font-weight:700;font-size:1em;">PHONES:</span><span style="font-size:1em;"> (800) 123-4567-890</span></p><p style="margin:2px 0px 0px 8px;"><span style="font-weight:700;font-size:1em;">WE ARE OPEN:</span><span style="font-size:1em;"> Mon-Fri: 10:00 AM - 8:00 PM</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br style="text-align:Center; display:block; " /><p><span style="font-size:1.714em;">Let's Get in Touch </span></p><p><div style="width:100%;" xmlns="contactformparentdiv"><div class="contactformdiv" style="margin:0px 0px 0px 0px;">[contact-form-7 id="a596b580-7d74-402c-9f83-ab9c20bdb5b0" title="Test Form"]</div></div></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></page_content>
+      <contactforms><contactform id="a596b580-7d74-402c-9f83-ab9c20bdb5b0" BrowseButtonVisibility="Visible" msg_name="Message"><ListViewItem HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="{x:Null}" Name="Name" xmlns:ttch="clr-namespace:Template.Core.Helpers;assembly=Template" /></ListViewItem.Tag>Name</ListViewItem><ListViewItem ContentStringFormat="Email" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="Mandate" Name="Email" xmlns:ttch="clr-namespace:Template.Core.Helpers;assembly=Template" /></ListViewItem.Tag>Email</ListViewItem><ListViewItem HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="{x:Null}" Name="Subject" xmlns:ttch="clr-namespace:Template.Core.Helpers;assembly=Template" /></ListViewItem.Tag>Subject</ListViewItem></contactform></contactforms>
+    </page>
+  </pages>
+  <post_page_name>blog-wp</post_page_name>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_slug>contact</menu_item_slug>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+    </menu_item>
+  </menu>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title=" ">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">Company</span></h4><p>Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title=" ">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">Pages</span></h4><p style="line-height: normal;">Home</p><p style="line-height: normal;">About</p><p style="line-height: normal;">Contact</p><p style="line-height: normal;">Blog</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title=" ">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">Address</span></h4><p style="line-height: normal;"><span>200 2nd Ave. South, Suite 358</span></p><p style="line-height: normal;"><span>St. Petersburg FL&nbsp;&nbsp;33701-4313</span></p><p style="line-height: normal;"><span>UNITED STATES</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title=" ">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="color:rgba(0,0,0,1);">Get In Touch</span></h4><p style="line-height: normal;"><img style="margin:0px 15px 0px 0px;" src="<?php echo $theme_path_content; ?>/images/Facebook.png" /><span>Facebook</span></p><p style="line-height: normal;"><img style="margin:0px 15px 0px 0px;" src="<?php echo $theme_path_content; ?>/images/Twitter.png" /><span>Twitter</span></p><p style="line-height: normal;"><img style="margin:0px 15px 0px 0px;" src="<?php echo $theme_path_content; ?>/images/LinkedIn.png" /><span>LinkedIn</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+</sitecontent>

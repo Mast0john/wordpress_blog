@@ -1,0 +1,231 @@
+/**
+ * Woocommerce.css
+ * @author Template
+ */
+
+.added_to_cart 
+{
+display: block;
+margin-top: 10px;
+}
+p.stars span a.active 
+{
+color:hsl(60, 80%, 50%);
+}
+p.stars span a.star-1 
+{
+width: 16px;
+z-index: 10;
+}
+p.stars span a.star-2 
+{
+width: 32px;
+z-index: 9;
+}
+p.stars span a.star-3 
+{
+width: 48px;
+z-index: 8;
+}
+p.stars span a.star-4 
+{
+width: 64px;
+z-index: 7;
+}
+p.stars span a.star-5 
+{
+width: 80px;
+z-index: 6;
+}
+.comment-form-rating, .comment-form-comment, .form-submit
+{
+margin-bottom:10px;
+}
+.comment-form-comment label
+{
+display:block;
+}
+.related
+{
+margin-top:50px;
+}
+.woocommerce #reviews #comments ol.commentlist li img.avatar {
+background: none repeat scroll 0 0 rgb(247, 246, 247);
+border: 1px solid rgb(240, 238, 240);
+float: left;
+height: auto;
+left: 0;
+line-height: 1;
+margin: 0;
+padding: 3px;
+position: absolute;
+top: 0;
+width: 46px;
+}
+#comments ol.commentlist li .comment-text {
+border: 1px solid rgb(240, 238, 240);
+border-radius: 4px 4px 4px 4px;
+padding: 1em 1em 0;
+}
+#comments ol.commentlist li {
+background: none repeat scroll 0 center transparent;
+border: 0 none;
+margin: 0 0 20px;
+padding: 0;
+position: relative;
+}
+.woocommerce-ordering
+{
+float:right;
+margin-bottom:10px;
+}
+.coupon input#coupon_code
+{
+float:none;
+}
+ul.products
+{
+clear:both !important;
+margin-bottom:10px !important;
+}
+ul.products:after
+{
+clear:both;
+content:"";
+display:block;
+}
+ul.products li
+{
+float:left !important;
+margin:0 1.3% 50px 0 !important;
+position:relative !important;
+width:24% !important;
+list-style: none outside none !important;
+box-sizing: border-box;
+}
+ul.products li.first
+{
+clear:both !important;
+}
+ul.products li.last 
+{
+margin-right: 0 !important;    
+}
+.star-rating:before
+{
+color: rgb(224, 218, 223);
+content:"sssss";
+float: left;
+left: 0;
+position: absolute;
+top: 0;
+}
+.star-rating span:before 
+{
+content: "SSSSS";
+left: 0;
+position: absolute;
+top: 0;
+}
+.star-rating span 
+{
+float: left;
+left: 0;
+overflow: hidden;
+padding-top: 1.5em;
+position: absolute;
+top: 0;
+}
+.price 
+{
+display: block;
+margin-bottom: 14px;
+}
+.star-rating
+{
+display: block;
+float: none;
+margin: 0 0 0.5em;
+font-family: 'star';
+font-size: 1em;
+height: 1em;
+line-height: 1em;
+overflow: hidden;
+position: relative;
+width: 5.4em;
+}
+.woocommerce-tabs
+{
+clear:both;
+}
+.images
+{
+float:left;
+width:48%;
+}
+.images img, ul.products li a img
+{
+width:100%;
+}
+.summary
+{
+width:50%;
+float:right;
+}
+.woocommerce-tabs ul.tabs
+{
+overflow:hidden;
+position:relative;
+}
+.woocommerce-tabs ul.tabs:before
+{
+border-bottom: 1px solid rgb(224, 218, 223);
+bottom: 0;
+content: "";
+left: 0;
+position: absolute;
+width: 100%;
+z-index: 1;
+}
+ul.tabs li
+{
+background: linear-gradient(center top , rgb(247, 246, 247) 0, rgb(224, 218, 223) 100%) repeat scroll 0 0 transparent;
+border: 1px solid rgb(224, 218, 223);
+border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(255, 255, 255, 0.6) inset;
+display: inline-block;
+margin-bottom: 0 !important;
+padding: 0 10px;
+position: relative;
+z-index: 0;
+}
+ul.tabs li.active
+{
+background: none repeat scroll 0 0 rgb(255, 255, 255);
+border-bottom-color: rgb(255, 255, 255);
+z-index: 2;
+}
+ul.tabs li a
+{
+display:inline-block;
+padding:10px 0;
+}
+#payment ul.payment_methods li 
+{
+list-style: none outside none;
+}
+@media only screen
+and (min-width: 150px)
+and (max-width: 767px) 
+{
+    ul.products li
+    {
+        float:none !important;
+        width:100% !important;
+    }   
+}
+.woocommerce table.shop_attributes td p
+{
+padding:8px;
+}
